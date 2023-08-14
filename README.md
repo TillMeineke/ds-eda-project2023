@@ -2,9 +2,7 @@
 
 This [Exploratory Data Analysis (EDA)](./02_eda/EDA_seattle_houses_not_cleaned.ipynb) was a three day task in my [Data Science Bootcamp at neue fische](https://www.neuefische.de/bootcamp/data-science).
 
-<div style="text-align: center;">
-  <img src="./03_images/overview_Seattle.jpg" title="Seattle overview" class="center" width="360">
-</div>
+<div style="text-align: center;"> <img src="./03_images/overview_Seattle.jpg" title="Seattle overview" class="center" width="360"> </div>
 
 ## Project time
 
