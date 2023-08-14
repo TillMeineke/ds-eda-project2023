@@ -20,8 +20,8 @@ My client Amy Williams is a house seller. She "works" as an Italian mafiosi and 
 ## Goal
 
 * Find recommendations for my client
-* clean EDA-notebook
-* `.pdf`-presentation for "stakeholders" (bootcamp participants)
+* [clean EDA-notebook](./02_eda/EDA_seattle_houses_not_cleaned.ipynb)
+* [presentation](./02_eda/EDA-neue_haeuser_real_estate.pdf) for "stakeholders" (bootcamp participants and coaches)
 
 ## Dataset overview
 
