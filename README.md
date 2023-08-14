@@ -1,4 +1,4 @@
-# [EDA](EDA.ipynb) on King Country house sales
+# [EDA](./02_eda/EDA_seattle_houses_not_cleaned.ipynb) on King Country house sales
 
 This [Exploratory Data Analysis (EDA)](EDA.ipynb) was a three day task in my [Data Science Bootcamp at neue fische](https://www.neuefische.de/bootcamp/data-science). 
 
