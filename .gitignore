@@ -129,11 +129,12 @@ dmypy.json
 .pyre/
 
 # data
-data/*.csv
-data/*.tsv
-data/*.zip
-data/*.gsv
-data/*.json
+01_data/*.csv
+01_data/*.tsv
+01_data/*.zip
+01_data/*.gsv
+01_data/*.json
+01_data/*.geojson
 
 # models
 models/*.pickle
