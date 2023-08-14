@@ -1,6 +1,6 @@
 # EDA on King Country house sales
 
-This [Exploratory Data Analysis (EDA)](./02_eda/EDA_seattle_houses_not_cleaned.ipynb) was a three day task in my [Data Science Bootcamp at neue fische](https://www.neuefische.de/bootcamp/data-science). 
+This [Exploratory Data Analysis (EDA)](./02_eda/EDA_seattle_houses_not_cleaned.ipynb) was a three day task in my [Data Science Bootcamp at neue fische](https://www.neuefische.de/bootcamp/data-science).
 
 <div style="text-align: center;">
   <img src="./03_images/overview_Seattle.jpg" title="Seattle overview" class="center" width="360">
@@ -27,7 +27,7 @@ My client Amy Williams is a house seller. She "works" as an Italian mafiosi and 
 
 ## Dataset overview
 
-The King County Housing dataset contains information about 22000 home sales in King County (USA) from 2014_05 until 2015_. The description of the column names can be found in the [column_names.md](./00_prep/column_names.md) and [feature_description.md](./00_prep/feature_description.md) file.
+The King County Housing dataset contains information about 22000 home sales in King County (USA) from 2014_05 until 2015_05. The description of the column names can be found in the [column_names.md](./00_prep/column_names.md) and [feature_description.md](./00_prep/feature_description.md) file.
 
 ## Recommendations and findings
 
